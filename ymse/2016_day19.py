@@ -2,7 +2,6 @@ inp = 3014387
 
 
 ### linked list ###
-
 class Node:
     def __init__(self, value, next_node=None):
         self.value = value
@@ -44,5 +43,10 @@ while True:
     # gå til neste
     node = node.next_node
 #### End Elves: ####
+
+
+
+
+
 
 
